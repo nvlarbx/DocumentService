@@ -1,2 +1,0 @@
---!strict
--- Functional code to create and check locks
